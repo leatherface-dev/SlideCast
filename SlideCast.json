@@ -1,0 +1,9 @@
+﻿{
+  "Author": "Haplo064, updated by leatherface-dev",
+  "Name": "SlideCast (API 5)",
+  "Punchline": "Safe casting indicator.",
+  "Description": "Adds an indicator of when it's safe to move while casting.",
+  "RepoUrl": "https://github.com/leatherface-dev/SlideCast",
+  "Changelog": "Update for API 5.",
+  "DalamudApiLevel": 5
+}
